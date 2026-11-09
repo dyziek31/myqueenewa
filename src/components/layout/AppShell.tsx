@@ -14,7 +14,7 @@ function isActive(pathname: string, href: string): boolean {
 function Brand() {
   return (
     <p className="text-base font-semibold tracking-wide">
-      my<span className="text-accent">Queen</span>Ewa <span aria-hidden>👑</span>
+      my<span className="text-accent">Goddess</span>Modlishka <span aria-hidden>👑</span>
     </p>
   );
 }

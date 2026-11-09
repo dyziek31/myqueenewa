@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "myQueenEwa",
+  title: "myGoddessModlishka",
   description: "Chat, płatności, wyjazd i moja służba — w jednym miejscu.",
 };
 

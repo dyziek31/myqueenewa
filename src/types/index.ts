@@ -34,5 +34,5 @@ export interface Idea {
 
 export const AUTHOR_LABELS: Record<ChatAuthor, string> = {
   ja: "Ja",
-  ewa: "Ewa",
+  ewa: "Modlishka",
 };

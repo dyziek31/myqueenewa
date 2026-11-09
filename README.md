@@ -1,8 +1,8 @@
-# myQueenEwa 👑
+# myGoddessModlishka 👑
 
 Prosta aplikacja webowa z czterema zakładkami:
 
-- **Chat** — rozmowa z wysyłaniem zdjęć. Przełącznik „Piszesz jako: Ja / Ewa”
+- **Chat** — rozmowa z wysyłaniem zdjęć. Przełącznik „Piszesz jako: Ja / Modlishka”
   określa autora wiadomości. Zdjęcia są automatycznie zmniejszane (max 1024 px),
   kliknięcie powiększa zdjęcie.
 - **Płatności** — historia wydatków: data, nazwa, kwota. Suma w bieżącym
